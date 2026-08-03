@@ -3,7 +3,7 @@
 
 This Repository i used for upload my titatic machine learning model .
 
-# Dataset from kaggle -vhttps://www.kaggle.com/competitions/titanic
+# Dataset from kaggle -https://www.kaggle.com/competitions/titanic
 # Dataset from kaggl
 
 #  Machine Learning Libraries used -
