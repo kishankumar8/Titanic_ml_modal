@@ -34,7 +34,7 @@ The project uses the Titanic dataset containing passenger information such as ag
 
 -> sklearn.Tree(DecisionTreeClassifier)
 
-->
+->sklearn.metrics(
 
 # main challenge i faced :-
 
