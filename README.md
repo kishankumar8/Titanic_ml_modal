@@ -18,7 +18,7 @@ This project predicts whether a passenger survived the Titanic disaster using Ma
 - 🎯 Survival prediction on test data
 
 ## Tech Stack
-- Python
+-> Python
 - Pandas
 - NumPy
 - Scikit-learn
