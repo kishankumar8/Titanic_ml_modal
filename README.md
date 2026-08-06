@@ -22,7 +22,7 @@ This project predicts whether a passenger survived the Titanic disaster using Ma
 -> Python
 -> Pandas
 -> NumPy
-- Scikit-learn
+-> Scikit-learn
 - Jupyter Notebook
 
 ## Dataset
