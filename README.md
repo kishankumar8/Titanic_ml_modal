@@ -11,7 +11,7 @@ while  training  the  model using titanic dataset i learn more about machine lea
 This project predicts whether a passenger survived the Titanic disaster using Machine Learning. It follows a complete ML workflow, including:
 
 -> 📊 Data exploration and analysis
-               
+      
 - 🧹 Data cleaning and preprocessing
 - 🔤 Feature encoding
 - 🤖 Model training with Random Forest
