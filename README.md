@@ -12,7 +12,7 @@ This project predicts whether a passenger survived the Titanic disaster using Ma
 
 -> 📊 Data exploration and analysis
       
-- 🧹 Data cleaning and preprocessing
+-> 🧹 Data cleaning and preprocessing
 - 🔤 Feature encoding
 - 🤖 Model training with Random Forest
 - 📈 Model evaluation
