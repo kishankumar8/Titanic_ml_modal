@@ -15,11 +15,16 @@ This project predicts whether a passenger survived the Titanic disaster using Ma
 -> 🧹 Data cleaning and preprocessing
 
 -> 🔤 Feature encoding
+
 -> 🤖 Model training with Random Forest
+
 -> 📈 Model evaluation
+
 - 🎯 Survival prediction on test data
 
+
 ## Tech Stack
+
 
 -> Python
 
