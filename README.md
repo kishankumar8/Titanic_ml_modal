@@ -51,7 +51,7 @@ The project uses the Titanic dataset containing passenger information such as ag
 
 # main challenge i faced :-
 
--> to find best model for dataset .
+-> to find best alorithemfor model for dataset .
 
 -> to do equally set of data in train nd test csv .
 
