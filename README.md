@@ -37,6 +37,7 @@ This project predicts whether a passenger survived the Titanic disaster using Ma
 -> Jupyter Notebook
 
 ## Dataset
+
 The project uses the Titanic dataset containing passenger information such as age, sex, ticket class, fare, and embarkation details to predict survival.
 
 
