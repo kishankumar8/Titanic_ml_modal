@@ -29,7 +29,9 @@ This project predicts whether a passenger survived the Titanic disaster using Ma
 -> Python
 
 -> Pandas
+
 -> NumPy
+
 -> Scikit-learn
 -> Jupyter Notebook
 
