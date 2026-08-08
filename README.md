@@ -53,4 +53,6 @@ The project uses the Titanic dataset containing passenger information such as ag
 
 -> to find best model for dataset .
 
+-> to do equally set of data in train nd test csv ,
+
 
