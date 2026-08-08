@@ -51,4 +51,6 @@ The project uses the Titanic dataset containing passenger information such as ag
 
 # main challenge i faced :-
 
+-> to find best model for dataset .
+
 
