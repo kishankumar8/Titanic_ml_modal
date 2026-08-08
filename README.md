@@ -20,7 +20,7 @@ This project predicts whether a passenger survived the Titanic disaster using Ma
 
 -> 📈 Model evaluation
 
-- 🎯 Survival prediction on test data
+-> 🎯 Survival prediction on test data
 
 
 ## Tech Stack
